@@ -16,7 +16,7 @@
   sasquatch,
   squashfsTools,
   matplotlib,
-  nose,
+  # nose,
   pycrypto,
   pyqtgraph,
   pyqt5,
